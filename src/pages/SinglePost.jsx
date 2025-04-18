@@ -6,7 +6,7 @@ function SinglePost() {
     console.log(id);
     
   return (
-    <div>SinglePost new ok</div>
+    <div>SinglePost new ok edited by abhay </div>
   )
 }
 
